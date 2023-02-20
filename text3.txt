@@ -1,4 +1,8 @@
 this is third text
 i am making changes in third text
 this is for branch testing
+<<<<<<< HEAD
 this is for github checking
+=======
+this is for push or pull checking
+>>>>>>> a0f1c4c67b1508c7dc393764e02dff7b572c0bb6
