@@ -6,3 +6,4 @@ i am modifing
 =======
 this is for checking
 >>>>>>> Stashed changes
+cheking...
