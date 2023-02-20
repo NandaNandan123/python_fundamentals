@@ -8,3 +8,4 @@ this is for checking
 >>>>>>> Stashed changes
 cheking...
 cheking for github
+push and pull checking
