@@ -7,3 +7,4 @@ checking for master branching
 this is for testing
 >>>>>>> testing
 this is for git hub testing
+changing the text
