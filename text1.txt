@@ -1,4 +1,8 @@
 hi 
 this is 2nd commit
 this is 3rd commit
+<<<<<<< HEAD
 checking for master branching
+=======
+this is for testing
+>>>>>>> testing
