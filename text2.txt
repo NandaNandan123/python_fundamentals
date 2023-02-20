@@ -8,4 +8,8 @@ this is for checking
 >>>>>>> Stashed changes
 cheking...
 cheking for github
+<<<<<<< HEAD
 new changes
+=======
+push and pull checking
+>>>>>>> 6f25ff8148343931d84f25c21623a1c519f436fd
