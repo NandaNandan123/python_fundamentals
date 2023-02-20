@@ -1,4 +1,8 @@
 this is my second file
 i have commit.
 i am adding third line
+<<<<<<< Updated upstream
 i am modifing
+=======
+this is for checking
+>>>>>>> Stashed changes
